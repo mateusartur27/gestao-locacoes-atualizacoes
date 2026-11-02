@@ -6,7 +6,7 @@ Para uma instalação nova, use **[LocaHub-Instalar.exe](https://github.com/mate
 
 A alternativa **LocaHub-Instalador.exe** contém uma versão completa e instala a versão que estava incluída quando foi baixado. Ambos utilizam o mesmo processo de instalação do aplicativo, que cria os atalhos, inclui o runtime .NET e oferece instalar o Microsoft Edge WebView2 Runtime quando necessário. O online usa o .NET Framework 4.x já incluído no Windows 10/11.
 
-Os arquivos ficam na [página de versões](https://github.com/mateusartur27/gestao-locacoes-atualizacoes/releases). O instalador online 1.0.0 foi adicionado à release 0.31.3 em 02/11/2026; a versão do aplicativo permanece 0.31.3. Ele não precisa ser instalado por quem já usa o aplicativo.
+Os arquivos ficam na [página de versões](https://github.com/mateusartur27/gestao-locacoes-atualizacoes/releases). A distribuição 0.31.4 inclui o instalador online 1.0.1, com instrução inicial mais direta e botão Tentar novamente ajustado ao texto. As versões anteriores continuam disponíveis. Quem já usa o aplicativo pode atualizar pelo próprio LocaHub; o instalador online serve para novas instalações e reinstalações.
 
 Na edição portátil, extraia toda a pasta e abra **LocaHub.exe** na raiz. A pasta `current`, o componente auxiliar `Update.exe` e os demais arquivos precisam permanecer juntos. `Update.exe` aplica as atualizações; ele não é o aplicativo nem o instalador.
 
